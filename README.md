@@ -8,4 +8,4 @@ I am a linux user and a [~linux fan~](https://iepe-iaguara.github.io/hyperlinks/
 
 That is all for now.
 
-![](https://komarev.com/ghpvc/?username=iepe-iaguara&color=grey)
+![](https://komarev.com/ghpvc/?username=iepe-iaguara&color=grey&label=Profile+views:)
