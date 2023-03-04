@@ -10,7 +10,7 @@ Yes, I know that there is a bunch of things that I can already do now, but I lac
 ##### }
 
 
-##### Why I started programming {
+##### Why did I started programming {
 The idea of controlling computers is the motivation that I had when I started trying programming.  
 So for later I'm planning to learn a low-level programming language like C.
 ##### }
